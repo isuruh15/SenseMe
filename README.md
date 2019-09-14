@@ -9,3 +9,8 @@ Have two buttons to Start and Stop the reading.
 Sample Screen
 
 ![Screenshot](Screenshot_2019-09-14-19-43-01.png)
+
+<p align="center">
+  <img src="Screenshot_2019-09-14-19-43-01.png" width="350" title="Sample">
+  <img src="Screenshot_2019-09-14-19-43-01.png" width="350" alt="accessibility text">
+</p>
